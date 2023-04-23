@@ -1,4 +1,4 @@
-# End To End ML Model of price prediction of used cars
+# End To End ML Model of price prediction for used cars
 
 A machine learning prediction model using RESTful api and streamlit for frontend.
 
